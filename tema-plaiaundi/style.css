@@ -1,0 +1,25 @@
+/*
+Theme Name: Tema Plaiaundi
+Author: Plaiaundi
+Description: Tema creado para aprender desarrollo de temas WordPress
+Version: 1.0
+*/
+/* Header */
+
+header {
+    background-color: #222;
+    padding: 30px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header h1 a {
+    color: white;
+    text-decoration: none;
+}
+
+header p {
+    color: #ccc;
+}
