@@ -6,7 +6,8 @@ Template Name: Ejercicios JavaScript tema 3
 get_header();
 $ejercicio_seleccionado = tema_plaiaundi_obtener_ejercicio_seleccionado();
 $titulos_ejercicios = array(
-    '¿Prueba de ejercicio Tema 3',
+    'Reescribe esPar como función flecha con retorno implícito.',
+    'calcula mediante for...of la suma, la media y la cantidad de aprobados',
 
 );
 ?>
