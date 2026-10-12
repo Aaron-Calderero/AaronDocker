@@ -6,8 +6,10 @@ Template Name: Ejercicios JavaScript tema 3
 get_header();
 $ejercicio_seleccionado = tema_plaiaundi_obtener_ejercicio_seleccionado();
 $titulos_ejercicios = array(
-    'Reescribe esPar como función flecha con retorno implícito.',
-    'calcula mediante for...of la suma, la media y la cantidad de aprobados',
+    'Ejercicio 1',
+    'Ejercicio 2',
+    'Ejercicio 3',
+    'Ejercicio 4'
 
 );
 ?>
