@@ -4,7 +4,6 @@
  */
 
 const valores = [0, 1, -1, "", "hola", null, undefined, NaN, "0"];
-// Predicción: false, true, true, false, true, false, false, false, true
  
 for (const valor of valores) {
     if (valor) {
