@@ -121,5 +121,8 @@ y WordPress estará disponible en `http://localhost:8082`.
 
 
 
-## enlace dock
+## enlace dock tema 2
 [documentacion](https://docs.google.com/document/d/1L2P9UUegkANQ_wvgP-kTZwo96_s_0EOX2Nl3K65CVzY/edit?usp=sharing)
+
+## enlace dock tema 3
+[documentacion](https://docs.google.com/document/d/17Rg8LwYHOsLul3GGMg41gXCQMMC9qz0IrrJcvAIspx4/edit?usp=sharing)
