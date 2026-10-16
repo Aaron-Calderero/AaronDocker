@@ -23,6 +23,8 @@ function tema_plaiaundi_obtener_tema_actual(){
         return 'tema2';
     } elseif (is_page_template('page-tema3.php')) {
         return 'tema3';
+    } elseif (is_page_template('page-tema4.php')) {
+        return 'tema4';
     } else {
         return null;
     }
